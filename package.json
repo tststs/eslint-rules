@@ -1,0 +1,11 @@
+{
+  "name": "eslint-rules",
+  "version": "1.0.0",
+  "description": "ESLint rules i use across my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Schubert (contact@tobias-schubert.com)",
+  "license": "MIT"
+}
