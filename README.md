@@ -1,2 +1,2 @@
 # eslint-rules
-ESLint rules is use across my projects
+ESLint rules i use across my projects
